@@ -1,0 +1,6 @@
+body {
+  font-family: 'Sagoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label, input, button {
+  display: block;
+}
